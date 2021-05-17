@@ -1,3 +1,8 @@
+# Freshest Clothing Store
+
+This project was created using React, Commerce.js, Stripe, HTML, and Javascript. It is a fully functioning eCommerce website where you can purchase clothes. The payment is currently disabled because it is just a mock store, but the payment logs still appear in Stripe/Commerce.js when a payment attempt is made. The website can be viewed at https://freshest-store.netlify.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
